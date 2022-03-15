@@ -1501,6 +1501,8 @@ select.form-control-lg:not([size]):not([multiple]) {
 
 .btn {
   display: inline-block;
+  position: relative;
+  list-style: none;
   font-weight: 700;
   text-align: center;
   white-space: nowrap;
